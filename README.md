@@ -1,37 +1,47 @@
-Strata by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Strata <sup>by HTML5 UP</sup>
 
+[html5up.net] | [@ajlkn]
 
-A simple, minimalist template that actually began life as an unused redesign of my
-personal site. Includes a (configurable) parallax background effect, Poptrox-powered
-lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-inclined.
+_Free for personal and commercial use under the [CCA 3.0 license]_ ![CCA Licenso logo]
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Quoting from the readme of [the original demo]:
 
-(* = Not included)
+> A simple, minimalist template that actually began life as an unused redesign of my
+> personal site. Includes a (configurable) parallax background effect, Poptrox-powered
+> lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-inclined.
+>
+> Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+>
+> AJ
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+> aj@lkn.io | [@ajlkn]
+>
 
-AJ
-aj@lkn.io | @ajlkn
+## Credits:
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+- Design:
+  - [html5up.net]
+- Icons:
+  - [Font Awesome]
+- Other:
+  - [jQuery]
+  - [html5shiv.js]
+  - [CSS3 Pie]
+  - [background-size polyfill]
+  - [Respond.js]
+  - [Skel]
 
-
-Credits:
-
-    Demo Images:
-        Unsplash (unsplash.com)
-
-    Icons:
-        Font Awesome (fortawesome.github.com/Font-Awesome)
-
-    Other:
-        jQuery (jquery.com)
-        html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-        CSS3 Pie (css3pie.com)
-        background-size polyfill (github.com/louisremi)
-        Respond.js (j.mp/respondjs)
-        Skel (skel.io)
+[@ajlkn]: https://twitter.com/ajlkn
+[AJ]: https://aj.lkn.io/
+[background-size polyfill]: https://github.com/louisremi/background-size-polyfill
+[CCA 3.0 license]: https://html5up.net/license
+[CCA Licenso logo]: https://licensebuttons.net/l/by/3.0/80x15.png
+[CSS3 Pie]: https://css3pie.com/
+[Font Awesome]: http://fontawesome.io/
+[FormSpree]: https://formspree.io/
+[html5shiv.js]: https://github.com/aFarkas/html5shiv
+[html5up.net]: https://html5up.net/
+[jQuery]: https://jquery.com/
+[Respond.js]: https://github.com/scottjehl/Respond
+[Skel]: https://skel.io/
+[the original demo]: https://html5up.net/uploads/demos/strata/
